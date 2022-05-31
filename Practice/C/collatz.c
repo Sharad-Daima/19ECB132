@@ -18,3 +18,10 @@ int main(){
     
     printf("%d", b+1);
 }
+
+/*
+Input:
+3
+Output:
+8 [retuns the collatz sequence]
+*/
