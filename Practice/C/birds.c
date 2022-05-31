@@ -24,3 +24,11 @@ int main(){
     printf("%d", q);
     return 0;
 }
+/*
+Input:
+3 [Size of the array]
+0 1 2 [Elements of the array]
+
+Output:
+1 [Minimum non-zero, non-negative number]
+*/
