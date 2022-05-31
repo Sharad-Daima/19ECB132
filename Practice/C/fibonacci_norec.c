@@ -11,3 +11,10 @@ int main(){
     b = c;
   }
 }
+
+/*
+Input: 
+4
+Output:
+0 1 1 2
+*/
