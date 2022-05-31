@@ -22,3 +22,12 @@ int main(){
     }*/
     printf("%d", x);
 }
+
+/*
+Input:
+3 [size of the array]
+1 2 3 [elements of the array seperated by space]
+
+Output:
+6 [sum of the elements of the array]
+*/
