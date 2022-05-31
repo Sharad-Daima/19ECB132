@@ -24,3 +24,9 @@ int main(){
         printf("\nNegative Number");
     }
 }
+/*
+Input: 
+4
+Output:
+24 
+*/
