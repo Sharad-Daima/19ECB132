@@ -24,3 +24,12 @@ int main(){
     
     printf("%d",t);
 }
+
+/*
+Input:
+5 [Size of the array/ Number of candles]
+3 3 5 1 4 [Elements of the array/ Value for height of the candles]
+
+Output:
+1 [Returns number of repetitions of the highest element value, i.e., 5 appears once and is the largest value]
+*/
