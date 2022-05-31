@@ -18,3 +18,10 @@ int main(){
   printf("0 1 ");
   fibonacci(a-2);
 }
+
+/*
+Inupt:
+4
+Output:
+0 1 1 2
+*/
