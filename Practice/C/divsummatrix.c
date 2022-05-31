@@ -18,3 +18,11 @@ int main(){
   z = l - k;
   printf("%d", abs(z));
 }
+/*
+Input:
+2
+1 2
+3 4
+Output:
+0
+*/
