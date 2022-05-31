@@ -17,3 +17,9 @@ int main(){
 		printf("\t%d", array[a]);
 	}
 }
+/*
+Input(hard coded):
+5 3 4 2 1
+Output:
+1 2 3 4 5 (ascending order sorted array)
+*/
